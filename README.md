@@ -54,5 +54,5 @@ Link to see individual carousals :
 AI-generated summaries, Personalized update feeds, Bookmarking & Collections, Push Notifications and Cross-platform Support.
 
 
-# In Conclusion, This project was to build an identity from scratch while using Google's sense of Graphics and Assests. 
+In Conclusion, This project was to build an identity from scratch while using Google's sense of Graphics and Assests. 
 
